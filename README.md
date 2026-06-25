@@ -1,5 +1,9 @@
 # TrafficSkip / SKIP THE TRAFFIC
 
+<p align="center">
+  <img src="docs/assets/cover.svg" alt="TrafficSkip product concept cover" width="100%">
+</p>
+
 ![Portfolio](https://img.shields.io/badge/portfolio-product_case-2f6f6d?style=flat-square)
 ![Smart City](https://img.shields.io/badge/domain-smart_city-44546a?style=flat-square)
 ![Mobility](https://img.shields.io/badge/focus-urban_mobility-3b6ea8?style=flat-square)
