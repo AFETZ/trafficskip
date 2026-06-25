@@ -1,0 +1,15 @@
+# OS and editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local exports and temporary files
+*.tmp
+*.bak
+~$*
+
+# Runtime/generated folders
+dist/
+build/
+out/
